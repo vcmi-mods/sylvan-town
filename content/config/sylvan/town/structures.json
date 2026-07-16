@@ -229,6 +229,7 @@
 					"animation" : "sylvan/town-screen/buildings/TBRMSPEC.def",
 					"x" : 0,
 					"y" : 0,
+					"z" : 2,
 					"border" : "sylvan/town-screen/buildings-border/TORGAR1A.png",
 					"area" : "sylvan/town-screen/buildings-area/TZRGAR1A.png"
 				},
