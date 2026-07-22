@@ -222,5 +222,8 @@
 	"skill.sylvan-town.distortions.description.basic" : "{Basic Distortions}\n\nCombat distortion creates an aura that gives a 10% chance to ignore an enemy spell.",
 	"skill.sylvan-town.distortions.description.expert" : "{Expert Distortions}\n\nCombat distortion creates an aura that gives a 30% chance to ignore an enemy spell.",
 	"skill.sylvan-town.distortions.name" : "Distortions",
-	"terrain.sylvan-town.forest-land.forest.name" : "Forest"
+	"terrain.sylvan-town.forest-land.forest.name" : "Forest",
+	"mod.name" : "Sylvan",
+	"mod.forest-land.name" : "Forest",
+	"mod.forest-land.description" : "A dense green forest terrain with woodland clearings, quiet lakes, natural paths, and wild growth for Sylvan-style maps."
 }
