@@ -1,5 +1,7 @@
 {
 	"sylvan-town:sylvan" : {
-		"nativeTerrain" : [ "forest" ]
+		"nativeTerrain" : [
+			"forest"
+		]
 	}
 }

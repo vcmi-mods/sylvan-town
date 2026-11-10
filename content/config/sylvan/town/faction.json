@@ -7,7 +7,9 @@
 		},
 		"name" : "Sylvan",
 		"boat" : "boatCastle",
-		"nativeTerrain" : [ "grass" ],
+		"nativeTerrain" : [
+			"grass"
+		],
 		"town" : {
 			"musicTheme" : [
 				"music/sylvan/theme"
