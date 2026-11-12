@@ -225,5 +225,6 @@
     "terrain.sylvan-town.forest-land.forest.name": "Лес",
     "mod.name": "Лесной Союз",
     "mod.forest-land.name": "Лесной",
-    "mod.forest-land.description": "Густой зелёный лесной ландшафт с полянами, тихими озёрами, природными тропами и дикой порослью для карт в стиле Лесного Союза."
+    "mod.forest-land.description": "Густой зелёный лесной ландшафт с полянами, тихими озёрами, природными тропами и дикой порослью для карт в стиле Лесного Союза.",
+    "terrain.sylvan-town.forest-land.forest.grailRumor": "в лесу"
 }
